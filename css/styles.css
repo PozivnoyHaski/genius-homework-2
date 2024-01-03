@@ -13,7 +13,7 @@
   src: url('../fonts/roboto-condensed-v27-latin-600.woff2') format('woff2');
 }
 
-/* Global settings */
+/*  Global settings  */
 :root {
   --color-brand: #2b7fff;
   --color-primary-blue: #011c44;
